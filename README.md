@@ -1,4 +1,4 @@
-# First-Static-Website-1
+# First-Static-Website-
 Hi, i have been spending so much time on Azure and i have been having a blast 
 And Yaay, I can say I created my first static website 
 Let me take you on a step by step process of how it made it happen 
